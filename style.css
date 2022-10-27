@@ -1,0 +1,139 @@
+* {
+    background-color: azure;
+}
+
+body {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; color:darkcyan;
+}
+
+#one {
+    font-size: 20pt;
+    margin-left: 100px
+}
+
+#one:hover {
+    animation: rainbow 4s infinite;
+}
+
+#two {
+    font-size: 40pt;
+    margin-left: 1000px;
+}
+
+#two:hover {
+    animation: rainbow 4s infinite;
+}
+
+#three {
+    font-size: 10pt;
+    margin-left: 450px;
+}
+
+#three:hover {
+    animation: rainbow 4s infinite;
+}
+
+#four {
+    font-size: 20pt;
+    margin-left: 1250px
+}
+
+#four:hover {
+    animation: rainbow 4s infinite;
+}
+
+#five {
+    font-size: 70pt;
+    margin-left: 60px
+}
+
+#five:hover {
+    animation: rainbow 4s infinite;
+}
+
+#six {
+    font-size: 8pt;
+    margin-left: 200px;
+}
+
+#six:hover {
+    animation: rainbow 4s infinite;
+}
+
+#seven {
+    font-size: 30pt;
+    margin-left: 1500px;
+}
+
+#seven:hover {
+    animation: rainbow 4s infinite;
+}
+
+#eight {
+    font-size: 50pt;
+    margin-left: 650px
+}
+
+#eight:hover {
+    animation: rainbow 4s infinite;
+}
+
+#nine {
+    font-size: 10pt;
+    margin-left: 1300px
+}
+
+#nine:hover {
+    animation: rainbow 4s infinite;
+}
+
+#ten {
+    font-size: 80pt;
+    margin-left: 900px;
+}
+
+#ten:hover {
+    animation: rainbow 4s infinite;
+}
+
+#eleven {
+    font-size: 40pt;
+    margin-left: 150px;
+}
+
+#eleven:hover {
+    animation: rainbow 4s infinite;
+}
+
+#twelve {
+    font-size: 25pt;
+    margin-left: 700px
+}
+
+#twelve:hover {
+    animation: rainbow 4s infinite;
+}
+
+@keyframes rainbow {
+    0% {
+        color: darkcyan;
+    }
+    20% {
+        color: darkorchid;
+    }
+    40% {
+        color: crimson;
+    }
+    60% {
+        color: gold;
+    }
+    80% {
+        color: forestgreen;
+    }
+    90% {
+        color:turquoise
+    }
+    100% {
+        color: darkcyan;
+    }
+}
